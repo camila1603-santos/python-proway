@@ -72,7 +72,7 @@ Se tiver uma lista muito grande, utilizar para saber o último item da lista col
 
 """
 
-print("####### listas indexáveis #############")
+print("####### LISTAS INDEXÁVEIS #############")
 
 #Acessando o 4 item da lista
 print(lista_compras[3]) # posição na lista menos 1
